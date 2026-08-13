@@ -1,1 +1,2 @@
 # customer-trends-data-analysis
+This project analyzes customer shopping behavior using Python, SQL, and PostgreSQL. The study includes data cleaning, feature engineering, customer segmentation, revenue analysis, purchase pattern analysis, and SQL-based business insights. Various analytical techniques were applied to explore customer demographics, spending behavior, subscription trends, discount usage, product performance, and revenue contribution across different customer segments.
